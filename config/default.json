@@ -1,0 +1,17 @@
+{
+    "app": {
+        "smtpConfig": {
+            "pool": true,
+            "host": "smtp.gmail.com",
+            "port": 587,
+            "secure": false,
+            "auth": {
+                "user": "arpitsharma401628@gmail.com",
+                "pass": "Sharma@1390"
+            },
+            "tls": {
+                "rejectUnauthorized": false
+            }
+        }
+    }
+}
