@@ -6,8 +6,8 @@
             "port": 587,
             "secure": false,
             "auth": {
-                "user": "arpitsharma401628@gmail.com",
-                "pass": "Sharma@1390"
+                "user": "local@gmail.com",
+                "pass": "xxxxxxxxx"
             },
             "tls": {
                 "rejectUnauthorized": false
