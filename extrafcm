@@ -1,0 +1,14 @@
+
+<script src="https://www.gstatic.com/firebasejs/4.8.1/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyArExf2o9dPicK5k98w2-z27dxYHQ2__Ac",
+    authDomain: "alerto-75d81.firebaseapp.com",
+    databaseURL: "https://alerto-75d81.firebaseio.com",
+    projectId: "alerto-75d81",
+    storageBucket: "",
+    messagingSenderId: "765945813733"
+  };
+  firebase.initializeApp(config);
+</script>

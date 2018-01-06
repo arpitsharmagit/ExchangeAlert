@@ -12,6 +12,7 @@
   "dependencies": {
     "cloudscraper": "^1.4.1",
     "config": "^1.29.0",
+    "firebase-admin": "^5.7.0",
     "nodemailer": "^4.4.1",
     "request": "^2.83.0",
     "request-promise": "^4.2.2",
