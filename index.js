@@ -4,8 +4,8 @@ import alertServer from './api/server';
 import sendNotification from './lib/message.api';
 import * as utils from './lib/utils';
 
-async function main() {
-    setTimeout(() => {
+function main() {
+    setTimeout(async() => {
         let currenPrice = await koinexApi.getCurrentPrice();
         let title = 'Alerto: Price Alert',
             body = `Ripple: ${currenPrice.XRP}`, registerId = '';
