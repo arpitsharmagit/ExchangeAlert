@@ -12,6 +12,8 @@
             "tls": {
                 "rejectUnauthorized": false
             }
-        }
-    }
+        },
+        "port":8888
+    },
+    "mongodb":"mongodb://localhost/CryptoAlert"
 }
